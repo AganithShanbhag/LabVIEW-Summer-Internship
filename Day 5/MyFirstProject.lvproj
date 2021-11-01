@@ -10,7 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Boolean" Type="Folder"/>
+		<Item Name="Boolean" Type="Folder" URL="../Boolean">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="New Folder" Type="Folder"/>
 		<Item Name="Numeric" Type="Folder"/>
 		<Item Name="String Programs" Type="Folder" URL="../String Programs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
