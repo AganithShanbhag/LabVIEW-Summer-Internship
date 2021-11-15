@@ -18,10 +18,13 @@
 			<Item Name="Prog7.vi" Type="VI" URL="../Prog7.vi"/>
 			<Item Name="Prog8.vi" Type="VI" URL="../Prog8.vi"/>
 			<Item Name="Prog9.vi" Type="VI" URL="../Prog9.vi"/>
+			<Item Name="Prog10.vi" Type="VI" URL="../Prog10.vi"/>
+			<Item Name="Prog11.vi" Type="VI" URL="../Prog11.vi"/>
+			<Item Name="Prog12.vi" Type="VI" URL="../Prog12.vi"/>
+			<Item Name="Prog13.vi" Type="VI" URL="../Prog13.vi"/>
 			<Item Name="Proj4.vi" Type="VI" URL="../Proj4.vi"/>
 			<Item Name="Proj5.vi" Type="VI" URL="../Proj5.vi"/>
 		</Item>
-		<Item Name="Prog10.vi" Type="VI" URL="../Prog10.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
